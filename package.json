@@ -1,0 +1,23 @@
+{
+  "name": "node-git-log",
+  "version": "1.0.0",
+  "description": "parse git log",
+  "bin": {
+    "gl":"./bin/gl"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zwwtj2014/node-git-log.git"
+  },
+  "keywords": [],
+  "author": "clam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zwwtj2014/node-git-log/issues"
+  },
+  "homepage": "https://github.com/zwwtj2014/node-git-log#readme"
+}
